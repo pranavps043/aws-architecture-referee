@@ -1,0 +1,6 @@
+{
+  "projectName": "AWS Architecture Referee",
+  "version": "1.0.0",
+  "description": "A tool that compares AWS options and explains trade-offs.",
+  "createdAt": "2026-01-06"
+}
